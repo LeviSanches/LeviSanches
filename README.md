@@ -1,8 +1,8 @@
 ## Eai? Eu sou o Levi Sanches, seja bem-vindo.
 
-### - 🧗‍♂️ Estou em busca de um estágio na área de programação.😁
-### - 🌱 Através de cursos estou aprendendo: HTML, CSS e chegando em JavaScript...♾️
-### - 🎓 Através da faculdade: Python, Java (POO). 
+## - 🧗‍♂️ Estou em busca de um estágio na área de programação.😁
+### - 🌱 Através de cursos e faculdade tenho conhecimento em: Python, Java (POO). HTML, CSS.
+### - 🎓 Estou em aprendizado: JavaScript... ♾️♾️♾️
 
 ##
 
