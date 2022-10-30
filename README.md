@@ -3,9 +3,8 @@
 ## - 🧗‍♂️ Estou em busca de um estágio na área de programação.😁
 ### - 🌱 Através de cursos e faculdade tenho conhecimento em: Python, Java (POO), HTML, CSS.
 ### - 🎓 Estou focando em: Java☕... ♾️♾️♾️
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=levisanches&label=Profile%20views&color=0e75b6&style=flat" alt="levisanches" /> </p>
 
-##
+
 
 <div align="center">
   <a href="https://github.com/LeviSanches">
