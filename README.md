@@ -1,6 +1,6 @@
 ## Eai? Eu sou o Levi Sanches, seja bem-vindo(a).
 
-## - 🧗‍♂️ Estou em busca de um estágio na área de programação.😁
+## - 🧗‍♂️ Estou em busca de um estágio/trabalho na área de programação.😁
 ### - 🌱 Através de cursos e faculdade tenho conhecimento em: Python, Java (POO), HTML, CSS.
 ### - 🎓 Estou focando em: Java☕... ♾️♾️♾️
 
