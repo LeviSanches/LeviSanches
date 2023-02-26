@@ -1,7 +1,7 @@
 ## Eai? Eu sou o Levi Sanches, seja bem-vindo(a).
 
-## - 🧗‍♂️ Estou em busca de um estágio/trabalho na área de programação.😁
-### - 🌱 Através de cursos, faculdade e muita prática, tenho conhecimento em: Python, Java (POO), HTML, CSS, JavaScript, JQuery e Angular.
+## - 🧗‍♂️ Estou em busca de um trabalho na área de programação.😁
+### - 🌱 Através de cursos, faculdade e muita prática, tenho conhecimento em: HTML, CSS, JavaScript, JQuery, Angular(em andamento), Java e Python.
 
 
 
