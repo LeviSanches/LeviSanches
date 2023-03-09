@@ -1,5 +1,5 @@
 ## Eai? Eu sou o Levi Sanches, seja bem-vindo(a).
-  🧗‍♂️ Em busca de uma oportunidade para evoluir na carreira trabalhando em equipe.
+## Desenvolvedor Web Jr
 ### - 🖼️ Conhecimentos Front-End: JAVASCRIPT || JQUERY || HTML || CSS || ANGULAR(em andamento).
 ### - 🔢 Conhecimentos Back-end: JAVA || NODEJS || SQL.
 
