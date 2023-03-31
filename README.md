@@ -1,8 +1,9 @@
-## Eai? Eu sou o Levi Sanches, seja bem-vindo(a).
-## Desenvolvedor Web Júnior
+## Seja bem-vindo(a).
+## Desenvolvedor Web (full-stack) Júnior.
 
-### - 🔢 Conhecimentos Back-end: JAVA || NODEJS || SQL.
 ### - 🖼️ Conhecimentos Front-End: JAVASCRIPT || JQUERY || HTML || CSS || ANGULAR(em andamento).
+### - 🔢 Conhecimentos Back-end: JAVA || NODEJS || SQL.
+### - 💡  Conhecimentos adicionais: Git || SSH || PM2 || Servidor Linux || Hospedagem VPS.
 
 
 
