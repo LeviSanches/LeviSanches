@@ -3,7 +3,7 @@
 
 ### - 🖼️ Conhecimentos Front-End: JAVASCRIPT || JQUERY || HTML || CSS || ANGULAR(em andamento).
 ### - 🔢 Conhecimentos Back-end: JAVA || NODEJS || SQL.
-### - 💡  Conhecimentos adicionais: Git || SSH || PM2 || Servidor Linux || Nginx || Hospedagem VPS.
+### - 💡  Conhecimentos adicionais: Git || Servidor Linux || Nginx || Hospedagem VPS.
 
 
 
@@ -24,6 +24,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          
             
 </div>
   
