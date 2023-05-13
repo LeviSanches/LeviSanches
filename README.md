@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-### Estagiário em Desenvolvimento Web
+### Desenvolvedor Web
 Tenho o objetivo de integrar a uma equipe de desenvolvedores para aprender mais e colaborar com a mesma, tenho experiência comprovada em projetos pessoais que desenvolvi para clientes. Como desenvolvedor web, meu principal objetivo é criar sites e aplicativos com design atraente e funcionalidade otimizada. Sempre buscando aprender novas tecnologias para aprimorar minhas habilidades. Além disso, sou capaz de trabalhar em equipe e cumprir prazos, garantindo sempre a qualidade do produto final entregue.
 ### - Link para o meu portfólio: https://levisanches.siseven.com.br/
 
