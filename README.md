@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
-### Desenvolvedor Web
-Tenho o objetivo de integrar a uma equipe de desenvolvedores para aprender mais e colaborar com a mesma, tenho experiência comprovada em projetos pessoais que desenvolvi para clientes, sempre buscando aprender novas tecnologias para aprimorar minhas habilidades. Além disso, sou capaz de trabalhar em equipe e cumprir prazos.
-### - Link para o meu portfólio: https://levisanches.siseven.com.br/
+## Desenvolvedor Web
+### Tenho o objetivo de integrar a uma equipe de desenvolvedores para aprender, não apenas a parte técnica, mas aprimorar também minhas soft-skils, tenho experiência comprovada em projetos pessoais que desenvolvi para clientes, sempre buscando aprender com humildade e empenho.
+## - Link para o meu portfólio: https://levisanches.siseven.com.br/
 
 ## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/levi_sanchesz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/levi-sanches/) 
