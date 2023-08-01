@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 ## Desenvolvedor Web
-### Tenho o objetivo de integrar a uma equipe de desenvolvedores para aprender, não apenas a parte técnica, mas aprimorar também minhas soft-skils, tenho experiência comprovada em projetos pessoais que desenvolvi para clientes, sempre buscando aprender com humildade e empenho.
+### Tenho o objetivo de integrar a uma equipe de desenvolvedores para desenvolver não apenas a parte técnica com grandes projetos, como também as minhas soft-skills, tenho experiência comprovada em projetos pessoais que desenvolvi para clientes, sempre busco aprender com humildade e empenho.
 ## - Link para o meu portfólio: https://levisanches.siseven.com.br/
 
 ## 🌐 Redes sociais:
