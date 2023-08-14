@@ -9,7 +9,7 @@
 <p><h3>Trabalho em Equipe</h3> - Fundamental no mundo da programação, uma equipe entrosada é importante.</p>
 <p><h3>Proatividade</h3> - Tomar a iniciativa faz parte do meu dia a dia, nos estudos, projetos e etc.</p>
 <p><h3>Liderança</h3> - Já tive experiência sólida em liderança, gosto de assumir responsabilidades com base nas minhas escolhas.</p>
-<p><h3>Comunicação verbal</h3> - Me expresso de forma clara e natural.</p>
+<p><h3>Comunicação Verbal</h3> - Me expresso de forma clara e natural.</p>
 
 ## 💻 Hard-Skills:
 <h3 align="left">Front-end</h3>
