@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-## Desenvolvedor Mainframe/Web
+## Desenvolvedor Web
 ## - Link para o meu portfólio: https://levisanches.siseven.com.br/
 
 ## 🧠 Soft-Skills:
