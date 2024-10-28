@@ -1,14 +1,9 @@
 # 💫 Sobre mim:
+Com uma carreira que começou no desenvolvimento web e rapidamente evoluiu para consultorias especializadas, atualmente estou na Capgemini, onde me destaco no desenvolvimento de soluções e integração de sistemas. Nesse papel, minhas habilidades em Angular, Java, Spring e até mesmo em mainframe(cobol) têm sido essenciais, permitindo criar soluções robustas para instituições financeiras como o Bradesco.
+
+Meu foco está sempre alinhado com a entrega de resultados eficientes e a satisfação do cliente, graças ao domínio de tecnologias front-end e back-end. Nos projetos, trabalho em colaboração com as equipes para garantir que os sistemas sejam seguros, confiáveis e de alto desempenho.
 ## Desenvolvedor Web
 ## - Link para o meu portfólio: https://levisanches.siseven.com.br/
-
-## 🧠 Soft-Skills:
-<p><h3>Perseverança</h3> - É necessario ir até o fim, qualquer situação é uma oportunidade de evoluir.</p>
-<p><h3>Comunicação Escrita</h3> - Pratico leitura diária, com isso eu consigo me expressar de forma clara e concisa.</p>
-<p><h3>Trabalho em Equipe</h3> - Fundamental no mundo da programação, uma equipe entrosada é importante.</p>
-<p><h3>Proatividade</h3> - Tomar a iniciativa faz parte do meu dia a dia, nos estudos, projetos e etc.</p>
-<p><h3>Liderança</h3> - Já tive experiência sólida em liderança, gosto de assumir responsabilidades com base nas minhas escolhas.</p>
-<p><h3>Comunicação Verbal</h3> - Me expresso de forma clara e natural.</p>
 
 ## 💻 Hard-Skills:
 <h3 align="left">Front-end</h3>
