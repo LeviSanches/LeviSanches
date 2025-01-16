@@ -3,7 +3,6 @@ A minha carreira começou no desenvolvimento web e rapidamente evoluiu para cons
 
 Meu foco está sempre alinhado com a entrega de resultados eficientes e a satisfação do cliente, graças ao meu domínio em tecnologias front-end e back-end. Nos projetos, trabalho em colaboração com as equipes para garantir que os sistemas sejam seguros, confiáveis e de alto desempenho.
 ## Desenvolvedor Web
-## - Link para o meu portfólio: https://levisanches.siseven.com.br/
 
 ## 💻 Hard-Skills:
 <h3 align="left">Front-end</h3>
