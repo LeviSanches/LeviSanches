@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
-Com uma carreira que começou no desenvolvimento web e rapidamente evoluiu para consultorias especializadas, atualmente estou na Capgemini, onde me destaco no desenvolvimento de soluções e integração de sistemas. Nesse papel, minhas habilidades em Angular, Java, Spring e até mesmo em mainframe(cobol) têm sido essenciais, permitindo criar soluções robustas para instituições financeiras como o Bradesco.
+A minha carreira começou no desenvolvimento web e rapidamente evoluiu para consultorias especializadas, atualmente estou na Capgemini, onde me destaco no desenvolvimento de soluções e integração de sistemas. Nesse papel, minhas habilidades em Angular, Java, Spring e até mesmo em mainframe(cobol) têm sido essenciais, permitindo criar soluções robustas para instituições financeiras como o Bradesco.
 
-Meu foco está sempre alinhado com a entrega de resultados eficientes e a satisfação do cliente, graças ao domínio de tecnologias front-end e back-end. Nos projetos, trabalho em colaboração com as equipes para garantir que os sistemas sejam seguros, confiáveis e de alto desempenho.
+Meu foco está sempre alinhado com a entrega de resultados eficientes e a satisfação do cliente, graças ao meu domínio em tecnologias front-end e back-end. Nos projetos, trabalho em colaboração com as equipes para garantir que os sistemas sejam seguros, confiáveis e de alto desempenho.
 ## Desenvolvedor Web
 ## - Link para o meu portfólio: https://levisanches.siseven.com.br/
 
